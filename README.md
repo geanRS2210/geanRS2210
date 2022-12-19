@@ -1,4 +1,4 @@
-<h1> Olá meu nome é Gean sou Dev em aprendizado... </h1>
+<h1> Olá meu nome é Gean sou Dev em inicio de carreira... </h1>
 
 
 <div>
