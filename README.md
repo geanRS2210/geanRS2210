@@ -4,8 +4,8 @@
 <div>
   <span>👨‍💻 Trabalhando com front-end</span></br>
   <span><img width= '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-Trabalhando com React</span></br>
-  <span>👨‍🎓 Aprendendo Next.js</span>
+Trabalhando com React e Next.js</span></br>
+  <span>👨‍🎓 Aprendendo taiwind </span>
 </div>
 </br>
 </br>
